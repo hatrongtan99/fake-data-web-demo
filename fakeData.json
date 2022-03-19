@@ -1,38 +1,38 @@
 {
   "data": [
     {
-    "createAt": "2022-03-20",
-    "updateAt": "2022-03-20",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 120000,
-        "xuatBan": 123456,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 1223
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 422
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 2009
-          }
-        ],
-        "TonKho": [
+      "createAt": "2022-03-25",
+      "updateAt": "2022-03-25",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -40,185 +40,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 100000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 500000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 200000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 12000,
-        "tongKlTonKho": 112500,
-        "xuatBan": 400200,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 122320
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 42212
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 20094
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 200
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 399
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-19",
-    "updateAt": "2022-03-19",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 20000,
-        "xuatBan": 371273,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 5712
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 664
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 577
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 200
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 399
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-24",
+      "updateAt": "2022-03-24",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -226,185 +226,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 472
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 485
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 1235
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 300022
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 120007
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 300010
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 100000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 123010,
-        "tongKlTonKho": 112500,
-        "xuatBan": 200030,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 12003
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 94959
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 10200
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 29100
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 23319
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 4129
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 1707
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 249
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-18",
-    "updateAt": "2022-03-18",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 120000,
-        "xuatBan": 123456,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 1223
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 422
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 2009
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1707
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 249
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-23",
+      "updateAt": "2022-03-23",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -412,185 +412,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 100000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 500000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 200000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 12000,
-        "tongKlTonKho": 112500,
-        "xuatBan": 400200,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 122320
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 42212
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 20094
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 2002
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 251
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-17",
-    "updateAt": "2022-03-17",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 20000,
-        "xuatBan": 371273,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 5712
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 664
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 577
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 2002
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 251
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-22",
+      "updateAt": "2022-03-22",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -598,185 +598,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 472
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 485
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 1235
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 300022
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 120007
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 300010
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 100000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 123010,
-        "tongKlTonKho": 112500,
-        "xuatBan": 200030,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 12003
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 94959
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 10200
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 29100
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 23319
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 4129
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 1999
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 132
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-16",
-    "updateAt": "2022-03-16",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 120000,
-        "xuatBan": 123456,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 1223
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 422
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 2009
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1999
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 132
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-21",
+      "updateAt": "2022-03-21",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -784,185 +784,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 100000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 500000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 200000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 12000,
-        "tongKlTonKho": 112500,
-        "xuatBan": 400200,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 122320
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 42212
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 20094
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 200
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 399
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-15",
-    "updateAt": "2022-03-15",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 20000,
-        "xuatBan": 371273,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 5712
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 664
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 577
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 200
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 399
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-20",
+      "updateAt": "2022-03-20",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -970,185 +970,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 472
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 485
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 1235
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 300022
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 120007
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 300010
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 100000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 123010,
-        "tongKlTonKho": 112500,
-        "xuatBan": 200030,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 12003
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 94959
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 10200
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 29100
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 23319
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 4129
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 1707
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 249
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-14",
-    "updateAt": "2022-03-14",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 120000,
-        "xuatBan": 123456,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 1223
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 422
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 2009
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 200
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 399
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-19",
+      "updateAt": "2022-03-19",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -1156,185 +1156,185 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 100000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 500000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 200000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 12000,
-        "tongKlTonKho": 112500,
-        "xuatBan": 400200,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 122320
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 42212
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 20094
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 2173
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 417
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 3822
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 2002
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 251
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "createAt": "2022-03-13",
-    "updateAt": "2022-03-13",
-    "soLieu": [
-      {
-        "id": "DT",
-        "name": "Định Thành",
-        "isPaddy": false,
-        "tongKlTonKho": 42500,
-        "tongKlNhapMoi": 20000,
-        "xuatBan": 371273,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 5712
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 664
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 577
-          }
-        ],
-        "TonKho": [
+          "xuatKho": [
             {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 22500
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1707
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 249
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-18",
+      "updateAt": "2022-03-18",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
             },
             {
               "id": "G5%",
@@ -1342,152 +1342,1082 @@
               "khoiLuong": 20000
             }
           ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 472
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 485
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 1235
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 300022
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 120007
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 300010
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 100000
-          }
-        ]
-      },
-      {
-        "id": "BT",
-        "name": "Bình Thành",
-        "isPaddy": true,
-        "tongKlNhapMoi": 123010,
-        "tongKlTonKho": 112500,
-        "xuatBan": 200030,
-        "sanXuatCheBien": [
-          {
-            "id": "GS",
-            "phanLoai": "Gạo sô",
-            "khoiLuong": 12003
-          },
-          {
-            "id": "TP",
-            "phanLoai": "TP 5%",
-            "khoiLuong": 94959
-          },
-          {
-            "id": "TL",
-            "phanLoai": "Tỷ lệ",
-            "khoiLuong": 10200
-          }
-        ],
-        "TonKho": [
-          {
-            "id": "LT",
-            "loaiHang": "Lúa tươi",
-            "khoiLuong": 50000
-          },
-          {
-            "id": "LK",
-            "loaiHang": "Lúa khô",
-            "khoiLuong": 20000
-          },
-          {
-            "id": "GS",
-            "loaiHang": "Gạo sô",
-            "khoiLuong": 12500
-          },
-          {
-            "id": "G5%",
-            "loaiHang": "Gạo 5%",
-            "khoiLuong": 30000
-          }
-        ],
-        "xuatKho": [
-          {
-            "id": "G5%",
-            "phanLoai": "Gạo 5%",
-            "khoiLuong": 29100
-          },
-          {
-            "id": "G10%",
-            "phanLoai": "Gạo 10%",
-            "khoiLuong": 23319
-          },
-          {
-            "id": "G15%",
-            "phanLoai": "Gạo 15%",
-            "khoiLuong": 4129
-          },
-          {
-            "id": "trau",
-            "phanLoai": "Trấu",
-            "khoiLuong": 1999
-          },
-          {
-            "id": "cam",
-            "phanLoai": "cám",
-            "khoiLuong": 132
-          }
-        ],
-        "soLieuSanPham": [
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00001",
-            "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
-            "TongKL": 200000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00002",
-            "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
-            "TongKL": 300000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00003",
-            "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
-            "TongKL": 400000
-          },
-          {
-            "IdKho": "038",
-            "IdNL": "GDT-00004",
-            "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
-            "TongKL": 500000
-          }
-        ]
-      }
-    ]
-  },
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 2002
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 251
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-17",
+      "updateAt": "2022-03-17",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1999
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 132
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-16",
+      "updateAt": "2022-03-16",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 200
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 399
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-15",
+      "updateAt": "2022-03-15",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1707
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 249
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-14",
+      "updateAt": "2022-03-14",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 120000,
+          "xuatBan": 123456,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 1223
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 422
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 2009
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 100000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 500000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 200000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 12000,
+          "tongKlTonKho": 112500,
+          "xuatBan": 400200,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 122320
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 42212
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 20094
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 2173
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 417
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 3822
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 2002
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 251
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "createAt": "2022-03-13",
+      "updateAt": "2022-03-13",
+      "soLieu": [
+        {
+          "id": "DT",
+          "name": "Định Thành",
+          "isPaddy": false,
+          "tongKlTonKho": 42500,
+          "tongKlNhapMoi": 20000,
+          "xuatBan": 371273,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 5712
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 664
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 577
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 22500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 472
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 485
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 1235
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 300022
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 120007
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 300010
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 100000
+            }
+          ]
+        },
+        {
+          "id": "BT",
+          "name": "Bình Thành",
+          "isPaddy": true,
+          "tongKlNhapMoi": 123010,
+          "tongKlTonKho": 112500,
+          "xuatBan": 200030,
+          "sanXuatCheBien": [
+            {
+              "id": "GS",
+              "phanLoai": "Gạo sô",
+              "khoiLuong": 12003
+            },
+            {
+              "id": "TP",
+              "phanLoai": "TP 5%",
+              "khoiLuong": 94959
+            },
+            {
+              "id": "TL",
+              "phanLoai": "Tỷ lệ",
+              "khoiLuong": 10200
+            }
+          ],
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 50000
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 20000
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 12500
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 30000
+            }
+          ],
+          "xuatKho": [
+            {
+              "id": "G5%",
+              "phanLoai": "Gạo 5%",
+              "khoiLuong": 29100
+            },
+            {
+              "id": "G10%",
+              "phanLoai": "Gạo 10%",
+              "khoiLuong": 23319
+            },
+            {
+              "id": "G15%",
+              "phanLoai": "Gạo 15%",
+              "khoiLuong": 4129
+            },
+            {
+              "id": "trau",
+              "phanLoai": "Trấu",
+              "khoiLuong": 1999
+            },
+            {
+              "id": "cam",
+              "phanLoai": "cám",
+              "khoiLuong": 132
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Gạo DT - Japonica DS1 (Coop)",
+              "TongKL": 200000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Gạo DT Pass2 - Japonica DS1 (Coop)",
+              "TongKL": 300000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo DTTM - Japonica DS1 (Coop)",
+              "TongKL": 400000
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo DT - Nàng Hoa (Coop)",
+              "TongKL": 500000
+            }
+          ]
+        }
+      ]
+    },
     {
       "createAt": "2022-03-12",
       "updateAt": "2022-03-12",
@@ -1517,17 +2447,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -1703,17 +2633,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -1889,17 +2819,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2075,17 +3005,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2261,17 +3191,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2447,17 +3377,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2633,17 +3563,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2819,17 +3749,17 @@
             }
           ],
           "TonKho": [
-              {
+            {
               "id": "GS",
               "loaiHang": "Gạo sô",
               "khoiLuong": 22500
-              },
-              {
-                "id": "G5%",
-                "loaiHang": "Gạo 5%",
-                "khoiLuong": 20000
-              }
-            ],
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 20000
+            }
+          ],
           "xuatKho": [
             {
               "id": "G5%",
@@ -2976,7 +3906,6 @@
         }
       ]
     }
-    
   ],
   "selectProducts": [
     {
@@ -2998,8 +3927,27 @@
       "IdKho": "038",
       "IdNL": "GDT-00004",
       "TenSanPham": "Gạo DT - Nàng Hoa (Coop)"
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00005",
+      "TenSanPham": "test1"
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00006",
+      "TenSanPham": "test2"
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00007",
+      "TenSanPham": "test3"
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00008",
+      "TenSanPham": "test4"
     }
   ],
-  "resultSelectProducts" : [
-  ]
+  "resultSelectProducts": []
 }
