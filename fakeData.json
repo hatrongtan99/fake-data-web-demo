@@ -4,12 +4,10 @@
       "createAt": "2022-05-04",
       "updateAt": "2022-05-04",
       "soLieu": [
-        
         {
           "id": "DT",
           "name": "Định Thành",
           "isPaddy": true,
-          "tongKlNhapMoi": 12000,
           "tongKlTonKho": 112500,
           "xuatBan": 400200,
           "TonKho": [
@@ -39,25 +37,25 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 16124
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 24256
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 11230
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 40027
             }
           ]
         },
@@ -65,29 +63,28 @@
           "id": "BT",
           "name": "Bình Thành",
           "isPaddy": true,
-          "tongKlNhapMoi": 123010,
-          "tongKlTonKho": 112500,
-          "xuatBan": 200030,
+          "tongKlTonKho": 111499,
+          "xuatBan": 102001,
           "TonKho": [
             {
               "id": "LT",
               "loaiHang": "Lúa tươi",
-              "khoiLuong": 50000
+              "khoiLuong": 43392
             },
             {
               "id": "LK",
               "loaiHang": "Lúa khô",
-              "khoiLuong": 20000
+              "khoiLuong": 17411
             },
             {
               "id": "GS",
               "loaiHang": "Gạo sô",
-              "khoiLuong": 12500
+              "khoiLuong": 38656
             },
             {
               "id": "G5%",
               "loaiHang": "Gạo 5%",
-              "khoiLuong": 30000
+              "khoiLuong": 12040
             }
           ],
           "soLieuSanPham": [
@@ -95,54 +92,53 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 51005
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 79648
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 55775
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 52848
             }
           ]
         },{
           "id": "DP",
           "name": "Đa Phước",
           "isPaddy": true,
-          "tongKlNhapMoi": 123010,
-          "tongKlTonKho": 112500,
-          "xuatBan": 200030,
+          "tongKlTonKho": 107727,
+          "xuatBan": 15731,
           "TonKho": [
             {
               "id": "LT",
               "loaiHang": "Lúa tươi",
-              "khoiLuong": 50000
+              "khoiLuong": 30323
             },
             {
               "id": "LK",
               "loaiHang": "Lúa khô",
-              "khoiLuong": 20000
+              "khoiLuong": 31114
             },
             {
               "id": "GS",
               "loaiHang": "Gạo sô",
-              "khoiLuong": 12500
+              "khoiLuong": 34154
             },
             {
               "id": "G5%",
               "loaiHang": "Gạo 5%",
-              "khoiLuong": 30000
+              "khoiLuong": 12136
             }
           ],
           "soLieuSanPham": [
@@ -150,25 +146,25 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 65767
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 51482
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 15997
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 37051
             }
           ]
         },
@@ -176,29 +172,28 @@
           "id": "LX1",
           "name": "Long Xuyên - Kho 1",
           "isPaddy": true,
-          "tongKlNhapMoi": 12000,
-          "tongKlTonKho": 112500,
-          "xuatBan": 400200,
+          "tongKlTonKho": 105061,
+          "xuatBan": 24493,
           "TonKho": [
             {
               "id": "LT",
               "loaiHang": "Lúa tươi",
-              "khoiLuong": 50000
+              "khoiLuong": 43627
             },
             {
               "id": "LK",
               "loaiHang": "Lúa khô",
-              "khoiLuong": 20000
+              "khoiLuong": 13828
             },
             {
               "id": "GS",
               "loaiHang": "Gạo sô",
-              "khoiLuong": 12500
+              "khoiLuong": 16147
             },
             {
               "id": "G5%",
               "loaiHang": "Gạo 5%",
-              "khoiLuong": 30000
+              "khoiLuong": 31459
             }
           ],
           "soLieuSanPham": [
@@ -206,25 +201,25 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 34403
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 53038
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 42553
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 42590
             }
           ]
         },
@@ -232,29 +227,28 @@
           "id": "LX2",
           "name": "Long Xuyên - Kho 2",
           "isPaddy": true,
-          "tongKlNhapMoi": 12000,
-          "tongKlTonKho": 112500,
-          "xuatBan": 400200,
+          "tongKlTonKho": 147146,
+          "xuatBan": 41679,
           "TonKho": [
             {
               "id": "LT",
               "loaiHang": "Lúa tươi",
-              "khoiLuong": 50000
+              "khoiLuong": 44030
             },
             {
               "id": "LK",
               "loaiHang": "Lúa khô",
-              "khoiLuong": 20000
+              "khoiLuong": 41015
             },
             {
               "id": "GS",
               "loaiHang": "Gạo sô",
-              "khoiLuong": 12500
+              "khoiLuong": 14793
             },
             {
               "id": "G5%",
               "loaiHang": "Gạo 5%",
-              "khoiLuong": 30000
+              "khoiLuong": 47308
             }
           ],
           "soLieuSanPham": [
@@ -262,25 +256,25 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 30392
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 26616
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 26310
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 28693
             }
           ]
         },
@@ -288,29 +282,28 @@
           "id": "LX4",
           "name": "Long Xuyên - Kho 4",
           "isPaddy": true,
-          "tongKlNhapMoi": 12000,
-          "tongKlTonKho": 112500,
-          "xuatBan": 400200,
+          "tongKlTonKho": 110401,
+          "xuatBan": 48269,
           "TonKho": [
             {
               "id": "LT",
               "loaiHang": "Lúa tươi",
-              "khoiLuong": 50000
+              "khoiLuong": 10231
             },
             {
               "id": "LK",
               "loaiHang": "Lúa khô",
-              "khoiLuong": 20000
+              "khoiLuong": 32450
             },
             {
               "id": "GS",
               "loaiHang": "Gạo sô",
-              "khoiLuong": 12500
+              "khoiLuong": 42607
             },
             {
               "id": "G5%",
               "loaiHang": "Gạo 5%",
-              "khoiLuong": 30000
+              "khoiLuong": 25113
             }
           ],
           "soLieuSanPham": [
@@ -318,25 +311,80 @@
               "IdKho": "038",
               "IdNL": "GDT-00001",
               "TenSanPham": "Lúa Tươi",
-              "TongKL": 200000
+              "TongKL": 65956
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00002",
               "TenSanPham": "Lúa Khô",
-              "TongKL": 300000
+              "TongKL": 40054
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00003",
               "TenSanPham": "Gạo Sô",
-              "TongKL": 400000
+              "TongKL": 42672
             },
             {
               "IdKho": "038",
               "IdNL": "GDT-00004",
               "TenSanPham": "Gạo TP",
-              "TongKL": 500000
+              "TongKL": 24234
+            }
+          ]
+        },
+        {
+          "id": "HA",
+          "name": "Hòa An",
+          "isPaddy": true,
+          "tongKlTonKho": 162095,
+          "xuatBan": 34320,
+          "TonKho": [
+            {
+              "id": "LT",
+              "loaiHang": "Lúa tươi",
+              "khoiLuong": 38508
+            },
+            {
+              "id": "LK",
+              "loaiHang": "Lúa khô",
+              "khoiLuong": 41037
+            },
+            {
+              "id": "GS",
+              "loaiHang": "Gạo sô",
+              "khoiLuong": 41279
+            },
+            {
+              "id": "G5%",
+              "loaiHang": "Gạo 5%",
+              "khoiLuong": 41271
+            }
+          ],
+          "soLieuSanPham": [
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00001",
+              "TenSanPham": "Lúa Tươi",
+              "TongKL": 65342
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00002",
+              "TenSanPham": "Lúa Khô",
+              "TongKL": 57634
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00003",
+              "TenSanPham": "Gạo Sô",
+              "TongKL": 13389
+            },
+            {
+              "IdKho": "038",
+              "IdNL": "GDT-00004",
+              "TenSanPham": "Gạo TP",
+              "TongKL": 75670
             }
           ]
         }
