@@ -1,0 +1,50 @@
+
+### test
+GET http://localhost:3004/data/DT
+
+
+### post
+POST http://localhost:3004/resultSelectProducts
+Content-Type: application/json
+
+{
+    "id": "1",
+    "name" : "gao so"
+}
+
+### delete
+delete http://localhost:3004/resultSelectProducts/3
+
+
+### patch
+PATCH http://localhost:3004/data/DT
+Content-Type: application/json
+
+{
+    "soLieuSanPham": [
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00001",
+      "TenSanPham": "Lúa Tươi",
+      "TongKL": 16124
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00002",
+      "TenSanPham": "Lúa Khô",
+      "TongKL": 24256
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00003",
+      "TenSanPham": "Gạo Sô",
+      "TongKL": 11230
+    },
+    {
+      "IdKho": "038",
+      "IdNL": "GDT-00004",
+      "TenSanPham": "Gạo TP",
+      "TongKL": 40027
+    }
+  ]
+}
