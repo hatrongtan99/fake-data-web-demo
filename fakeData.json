@@ -198,20 +198,6 @@
       "soLieuSanPham": [
         {
           "IdKho": "038",
-          "IdNL": "GDT-00001",
-          "TenSanPham": "Lúa Tươi",
-          "TongKL": 34403,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
-          "IdNL": "GDT-00002",
-          "TenSanPham": "Lúa Khô",
-          "TongKL": 53038,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
           "IdNL": "GDT-00003",
           "TenSanPham": "Gạo Sô",
           "TongKL": 42553,
@@ -247,20 +233,6 @@
       "soLieuSanPham": [
         {
           "IdKho": "038",
-          "IdNL": "GDT-00001",
-          "TenSanPham": "Lúa Tươi",
-          "TongKL": 30392,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
-          "IdNL": "GDT-00002",
-          "TenSanPham": "Lúa Khô",
-          "TongKL": 26616,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
           "IdNL": "GDT-00003",
           "TenSanPham": "Gạo Sô",
           "TongKL": 26310,
@@ -294,20 +266,6 @@
         }
       ],
       "soLieuSanPham": [
-        {
-          "IdKho": "038",
-          "IdNL": "GDT-00001",
-          "TenSanPham": "Lúa Tươi",
-          "TongKL": 65956,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
-          "IdNL": "GDT-00002",
-          "TenSanPham": "Lúa Khô",
-          "TongKL": 40054,
-          "isShow": true
-        },
         {
           "IdKho": "038",
           "IdNL": "GDT-00003",
