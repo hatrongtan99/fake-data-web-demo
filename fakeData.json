@@ -181,7 +181,7 @@
       "id": "LX1",
       "name": "Long Xuyên - Kho 1",
       "isPaddy": true,
-      "tongKlTonKho": 105061,
+      "tongKlTonKho": 47606,
       "xuatBan": 24493,
       "TonKho": [
         {
@@ -216,7 +216,7 @@
       "id": "LX2",
       "name": "Long Xuyên - Kho 2",
       "isPaddy": true,
-      "tongKlTonKho": 147146,
+      "tongKlTonKho": 62101,
       "xuatBan": 41679,
       "TonKho": [
         {
@@ -251,7 +251,7 @@
       "id": "LX4",
       "name": "Long Xuyên - Kho 4",
       "isPaddy": true,
-      "tongKlTonKho": 110401,
+      "tongKlTonKho": 67720,
       "xuatBan": 48269,
       "TonKho": [
         {
@@ -286,7 +286,7 @@
       "id": "HA",
       "name": "Hòa An",
       "isPaddy": true,
-      "tongKlTonKho": 162095,
+      "tongKlTonKho": 82550,
       "xuatBan": 34320,
       "TonKho": [
         {
