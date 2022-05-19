@@ -303,20 +303,6 @@
       "soLieuSanPham": [
         {
           "IdKho": "038",
-          "IdNL": "GDT-00001",
-          "TenSanPham": "Lúa Tươi",
-          "TongKL": 65342,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
-          "IdNL": "GDT-00002",
-          "TenSanPham": "Lúa Khô",
-          "TongKL": 57634,
-          "isShow": true
-        },
-        {
-          "IdKho": "038",
           "IdNL": "GDT-00003",
           "TenSanPham": "Gạo Sô",
           "TongKL": 13389,
