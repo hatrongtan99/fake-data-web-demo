@@ -290,16 +290,6 @@
       "xuatBan": 34320,
       "TonKho": [
         {
-          "id": "LT",
-          "loaiHang": "Lúa tươi",
-          "khoiLuong": 38508
-        },
-        {
-          "id": "LK",
-          "loaiHang": "Lúa khô",
-          "khoiLuong": 41037
-        },
-        {
           "id": "GS",
           "loaiHang": "Gạo sô",
           "khoiLuong": 41279
