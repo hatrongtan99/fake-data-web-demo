@@ -48,7 +48,7 @@
           "IdNL": "GDT-00003",
           "TenSanPham": "Gạo Sô",
           "TongKL": 11230,
-          "isShow": false
+          "isShow": true
         },
         {
           "IdKho": "038",
